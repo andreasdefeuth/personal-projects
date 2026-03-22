@@ -1,2 +1,2 @@
-# personal-projects
+# Personal Projects
 All my personal projects
