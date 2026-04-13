@@ -13,4 +13,4 @@ The project scope: Nordic players and leagues - focusing on players that have ye
 Sources: Transfermarkt, Capology, FBref, UEFA, Fotmob
 
 Tech stack:
-HTML, CSS, JS, C#, Python, PostgreSQL, Windows/Mac/iOS/Android
+HTML, CSS, JS, C#, Python
